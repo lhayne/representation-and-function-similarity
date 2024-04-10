@@ -1,1 +1,1 @@
-# representation-similarity-and-function-similarity
+# Does Representation Similarity Capture Function Similarity?
